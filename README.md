@@ -67,7 +67,7 @@
          . An idea for a science fiction novel.
    . Feedback is requested after receiving the generated content.
 
-   4. Feedback Mechanism
+   4. Feedback Mechanism (OPTIONAL)
 
   .  After each task (question, summarization, or creative content), you are prompted to provide feedback (yes/no).
   .  Your feedback is saved in a text file feedback_log.txt for later analysis.
@@ -77,7 +77,7 @@
     ai-assistant-tkinter/
     │
     ├── ai_assistant.py    # Main Python script to run the application
-    ├── feedback_log.txt   # Stores user feedback (created after running the app)
+    ├── feedback_log.txt   # (Optional) Stores user feedback (created after running the app)
     ├── README.md          # Project documentation
     └── LICENSE            # (Optional) License file for your project
 
