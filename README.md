@@ -9,10 +9,12 @@
 
  # Features
  . Clean GUI: An intuitive and user-friendly interface created using Tkinter.
+ 
  . Multiple Functionalities: The AI Assistant can:
-      .  Answer questions based on predefined data.
-      .   Summarize text (basic word count-based summarization).
-      .   Generate creative content (a short story, poem, or science fiction idea).
+         .  Answer questions based on predefined data.
+         .   Summarize text (basic word count-based summarization).
+         .   Generate creative content (a short story, poem, or science fiction idea).
+         
  . Feedback Mechanism: Users can provide feedback (yes/no) on the responses, and the feedback is logged.
 
   # Technologies Used
